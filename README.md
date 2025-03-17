@@ -1,11 +1,10 @@
+<div align=center>
+<img src="./haide.png"/>
+</div>
 
-![](./haide.png)
-
+<h1 align="center"> hAide</h1>
 <p align="center"><a href="https://www.indratang.top/product/haide">中文版</a> • <a href="#installation">Install</a> • <a href="#usage">Usage</a></p>
-
-# hAide
-
-Hiden AI supports chatting anywhere you write.
+<p align="center">Hiden AI supports chatting anywhere you write.</p>
 
 > This is a work of vibe codeing😅
 
