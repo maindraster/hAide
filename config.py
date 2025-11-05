@@ -1,5 +1,5 @@
 # DeepSeek API 配置 
-DEEPSEEK_API_KEY = 'sk-YvCOEo1Hoe1y3GGxZhg2asjHZ0b1OgSqGScpQ5LHEjolGQUQ'
+DEEPSEEK_API_KEY = 'sk-'
 # 硅基流动API注册地址，免费15元额度 https://cloud.siliconflow.cn/
 DEEPSEEK_BASE_URL = 'https://vg.v1api.cc/v1'
 # 硅基流动API的模型
